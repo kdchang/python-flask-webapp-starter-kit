@@ -97,3 +97,25 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env
+env*
+dist
+build
+*.egg
+*.egg-info
+_mailinglist
+.tox
+.cache/
+.idea/
+
+# Coverage reports
+htmlcov
+.coverage
+.coverage.*
+*,cover

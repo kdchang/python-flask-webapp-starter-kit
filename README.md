@@ -1,4 +1,4 @@
-# Python Flask Starter Kit
+# Python Flask Web App Starter Kit
 
 ## Usage
 1. $ git clone 
